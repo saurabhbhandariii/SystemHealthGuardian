@@ -16,15 +16,15 @@
 
 ## 🗂️ Project Structure
 
-SystemHealthGuardian/
-├── app.py # Streamlit entry point
-├── modules/ # Custom Python modules (monitoring, healing, logging)
-│ └── pycache/ # Cached Python bytecode (ignored in production)
-├── logs/ # Logs for alerts, errors, healing actions, etc.
-├── pages/ # Additional Streamlit pages (if any)
-├── .streamlit/ # Streamlit config files
-├── pyproject.toml # Project dependencies/config
-└── README.md # This file
+SystemHealthGuardian/ <br>
+├── app.py # Streamlit entry point <br>
+├── modules/ # Custom Python modules (monitoring, healing, logging)<br>
+│ └── pycache/ # Cached Python bytecode (ignored in production)<br>
+├── logs/ # Logs for alerts, errors, healing actions, etc.<br>
+├── pages/ # Additional Streamlit pages (if any)<br>
+├── .streamlit/ # Streamlit config files<br>
+├── pyproject.toml # Project dependencies/config<br>
+└── README.md # This file<br>
 
 This project is licensed under the MIT License.
 Built with ❤️ by @saurabhbhandariii
